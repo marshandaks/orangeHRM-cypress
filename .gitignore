@@ -1,3 +1,4 @@
 node_modules/
 cypress/videos/
 cypress/screenshots/
+reqres-api-cypress/cypress.env.json
