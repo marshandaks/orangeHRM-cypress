@@ -1,0 +1,12 @@
+
+{
+  "usernameValid": "Admin",
+  "passwordValid": "admin123",
+  "usernameInvalid": "AdminXYZ",
+  "passwordInvalid": "salah123",
+  "usernameLain": "user123",
+  "passwordLain": "pass123",
+  "usernameHurufKecil": "admin",
+  "passwordHurufKapital": "ADMIN123",
+  "karakterKhusus": "' OR '1'='1"
+}
